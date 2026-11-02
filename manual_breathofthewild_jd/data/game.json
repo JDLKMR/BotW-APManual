@@ -1,0 +1,60 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "BreathoftheWild",
+  "creator": "JD",
+  "filler_item_name": "Arrows (10)",
+  "starting_items": [
+    {
+      "items": [
+		"Great Plateau Tower"
+	  ],
+	  "yaml_option": [
+		"!randomize_starting_tower"
+	  ]
+	},
+	{
+	  "items": [
+        "Great Plateau Tower",
+        "Central Tower",
+        "Dueling Peaks Tower",
+        "Hateno Tower",
+        "Lanayru Tower",
+        "Eldin Tower",
+        "Akkala Tower",
+        "Woodland Tower",
+        "Lake Tower",
+        "Tabantha Tower",
+        "Gerudo Tower",
+        "Wasteland Tower"
+      ],
+      "random": 1,
+	  "yaml_option": [
+		"randomize_starting_tower"
+	  ]
+    },
+    {
+      "items": [
+        "Heart Container"
+      ],
+      "random": 3
+    },
+    {
+      "items": [
+        "Weapon Slot"
+      ],
+      "random": 8
+    },
+    {
+      "items": [
+        "Bow Slot"
+      ],
+      "random": 5
+    },
+    {
+      "items": [
+        "Shield Slot"
+      ],
+      "random": 4
+    }
+  ]
+}

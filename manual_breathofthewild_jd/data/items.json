@@ -1,0 +1,1581 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Great Plateau Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Central Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dueling Peaks Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hateno Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Faron Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lanayru Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Eldin Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Akkala Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Woodland Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lake Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tabantha Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ridgeland Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gerudo Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wasteland Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hebra Tower",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Magnesis",
+      "category": [
+        "Runes"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Remote Bomb",
+      "category": [
+        "Runes"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Stasis",
+      "category": [
+        "Runes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cryonis",
+      "category": [
+        "Runes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Camera",
+      "category": [
+        "Runes"
+      ],
+      "progression": true
+    },
+    {
+      "count": "30",
+      "name": "Heart Container",
+      "category": [
+        "Heart Containers"
+      ],
+      "progression": true
+    },
+    {
+      "count": "10",
+      "name": "Stamina Vessel",
+      "category": [
+        "Stamina Vessels"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Travel Medallion",
+      "category": [
+        "Key Items",
+        "The Master Trials DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Master Sword",
+      "category": [
+        "Equipment",
+        "Master Sword (Base Game)"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Master Sword",
+      "category": [
+        "Equipment",
+        "The Master Trials DLC"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hylian Shield",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bow of Light",
+      "category": [
+        "Equipment"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Master Cycle Zero",
+      "category": [
+        "Runes",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "One-Hit Obliterator",
+      "category": [
+        "Equipment",
+        "DLC"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Revali's Gale",
+      "category": [
+        "Champion Abilities",
+        "Champion Abilities (Base Game)"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Revali's Gale",
+      "category": [
+        "Champion Abilities",
+        "The Champions' Ballad DLC"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Daruk's Protection",
+      "category": [
+        "Champion Abilities",
+        "Champion Abilities (Base Game)"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Daruk's Protection",
+      "category": [
+        "Champion Abilities",
+        "The Champions' Ballad DLC"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mipha's Grace",
+      "category": [
+        "Champion Abilities",
+        "Champion Abilities (Base Game)"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Mipha's Grace",
+      "category": [
+        "Champion Abilities",
+        "The Champions' Ballad DLC"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Urbosa's Fury",
+      "category": [
+        "Champion Abilities",
+        "Champion Abilities (Base Game)"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Urbosa's Fury",
+      "category": [
+        "Champion Abilities",
+        "The Champions' Ballad DLC"
+      ],
+      "progression": true
+    },
+    {
+      "count": "19",
+      "name": "Weapon Slot",
+      "category": [
+        "Weapon Slots"
+      ],
+      "useful": true
+    },
+    {
+      "count": "13",
+      "name": "Bow Slot",
+      "category": [
+        "Bow Slots"
+      ],
+      "useful": true
+    },
+    {
+      "count": "20",
+      "name": "Shield Slot",
+      "category": [
+        "Shield Slots"
+      ],
+      "useful": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Armor Upgrade",
+      "category": [
+        "Equipment"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Sheikah Sensor",
+      "category": [
+        "Runes"
+      ],
+      "useful": true
+    },
+	{
+	  "count": "1",
+	  "name": "Vah Medoh Controls",
+	  "category": [
+		"Divine Beast Controls"
+	  ],
+	  "progression": true
+	},
+	{
+	  "count": "1",
+	  "name": "Vah Rudania Controls",
+	  "category": [
+		"Divine Beast Controls"
+	  ],
+	  "progression": true
+	},
+	{
+	  "count": "1",
+	  "name": "Vah Ruta Controls",
+	  "category": [
+		"Divine Beast Controls"
+	  ],
+	  "progression": true
+	},
+	{
+	  "count": "1",
+	  "name": "Vah Naboris Controls",
+	  "category": [
+		"Divine Beast Controls"
+	  ],
+	  "progression": true
+	},
+	{
+	  "count": "1",
+	  "name": "Final Trial Controls",
+	  "category": [
+		"Divine Beast Controls",
+		"The Champions' Ballad DLC"
+	  ],
+	  "progression": true
+	},
+    {
+      "count": 1,
+      "name": "Amber Earrings",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ancient Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Medoh Divine Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head",
+        "Cold Resistance",
+        "Cold Resistant Head",
+        "Upgradeable Cold Resistant Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Naboris Divine Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Rudania Divine Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head",
+        "Flame Resistance",
+        "Flame Resistant Head",
+        "Upgradeable Flame Resistant Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Ruta Divine Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ancient Cuirass",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ancient Greaves",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Barbarian Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Barbarian Armor",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Barbarian Leg Wraps",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bokoblin Mask",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Champion's Tunic",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Climber's Bandanna",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Climbing Gear",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Climbing Boots",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Hood",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Tunic",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Trousers",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Desert Voe Headband",
+      "category": [
+        "Armor",
+        "Upgradeable Head",
+        "Heat Resistance",
+        "Heat Resistant Head",
+        "Upgradeable Heat Resistant Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Desert Voe Spaulder",
+      "category": [
+        "Armor",
+        "Upgradeable Body",
+        "Heat Resistance",
+        "Heat Resistant Body",
+        "Upgradeable Heat Resistant Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Desert Voe Trousers",
+      "category": [
+        "Armor",
+        "Upgradeable Legs",
+        "Heat Resistance",
+        "Heat Resistant Legs",
+        "Upgradeable Heat Resistant Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Diamond Circlet",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fierce Deity Mask",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fierce Deity Armor",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fierce Deity Boots",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Flamebreaker Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head",
+        "Flame Resistance",
+        "Flame Resistant Head",
+        "Upgradeable Flame Resistant Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Flamebreaker Armor",
+      "category": [
+        "Armor",
+        "Upgradeable Body",
+        "Flame Resistance",
+        "Flame Resistant Body",
+        "Upgradeable Flame Resistant Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Flamebreaker Boots",
+      "category": [
+        "Armor",
+        "Upgradeable Legs",
+        "Flame Resistance",
+        "Flame Resistant Legs",
+        "Upgradeable Flame Resistant Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gerudo Veil",
+      "category": [
+        "Armor"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gerudo Top",
+      "category": [
+        "Armor"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gerudo Sirwal",
+      "category": [
+        "Armor"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cap of the Hero",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tunic of the Hero",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trousers of the Hero",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cap of Time",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tunic of Time",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trousers of Time",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cap of Twilight",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tunic of Twilight",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trousers of Twilight",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cap of the Wind",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tunic of the Wind",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trousers of the Wind",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cap of the Sky",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tunic of the Sky",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trousers of the Sky",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cap of the Wild",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tunic of the Wild",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trousers of the Wild",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hylian Hood",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hylian Tunic",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hylian Trousers",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Island Lobster Shirt",
+      "category": [
+        "Armor",
+        "Heat Resistance",
+        "Heat Resistant Body",
+        "The Champions' Ballad DLC"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Korok Mask",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lizalfos Mask",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lynel Mask",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Majora's Mask",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Midna's Helmet",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Moblin Mask",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Nintendo Switch Shirt",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Opal Earrings",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Phantom Helmet",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Phantom Armor",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Phantom Greaves",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Phantom Ganon Skull",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Phantom Ganon Armor",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Phantom Ganon Greaves",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Radiant Mask",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Radiant Shirt",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Radiant Tights",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ravio's Hood",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Royal Guard Cap",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Royal Guard Uniform",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Royal Guard Boots",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rubber Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rubber Armor",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rubber Tights",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ruby Circlet",
+      "category": [
+        "Armor",
+        "Upgradeable Head",
+        "Cold Resistance",
+        "Cold Resistant Head",
+        "Upgradeable Cold Resistant Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Salvager Headwear",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Salvager Vest",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Salvager Trousers",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sand Boots",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sapphire Circlet",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sheik's Mask",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Snow Boots",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Snowquill Headdress",
+      "category": [
+        "Armor",
+        "Upgradeable Head",
+        "Cold Resistance",
+        "Cold Resistant Head",
+        "Upgradeable Cold Resistant Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Snowquill Tunic",
+      "category": [
+        "Armor",
+        "Upgradeable Body",
+        "Cold Resistance",
+        "Cold Resistant Body",
+        "Upgradeable Cold Resistant Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Snowquill Trousers",
+      "category": [
+        "Armor",
+        "Upgradeable Legs",
+        "Cold Resistance",
+        "Cold Resistant Legs",
+        "Upgradeable Cold Resistant Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Soldier's Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Soldier's Armor",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Soldier's Greaves",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stealth Mask",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stealth Chest Guard",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stealth Tights",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Thunder Helm",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tingle's Hood",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tingle's Shirt",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tingle's Tights",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Topaz Earrings",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Warm Doublet",
+      "category": [
+        "Armor",
+        "Cold Resistance",
+        "Cold Resistant Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Old Shirt",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Well-Worn Trousers",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Zant's Helmet",
+      "category": [
+        "Armor",
+        "The Champions' Ballad DLC"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Zora Helm",
+      "category": [
+        "Armor",
+        "Upgradeable Head"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Zora Armor",
+      "category": [
+        "Armor",
+        "Upgradeable Body"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Zora Greaves",
+      "category": [
+        "Armor",
+        "Upgradeable Legs"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Farosh's Scale",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dinraal's Scale",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Naydra's Scale",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Medoh Cleared",
+      "category": [
+        "Divine Beasts Cleared"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Rudania Cleared",
+      "category": [
+        "Divine Beasts Cleared"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Ruta Cleared",
+      "category": [
+        "Divine Beasts Cleared"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vah Naboris Cleared",
+      "category": [
+        "Divine Beasts Cleared"
+      ],
+      "progression": true
+    },
+    {
+      "count": "10",
+      "name": "Arrows (50)",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Royal Broadsword",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Royal Shield",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Bomb Arrows (15)",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "13",
+      "name": "50 Rupees",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "100 Rupees",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "200 Rupees",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Savage Lynel Shield",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "15",
+      "name": "Royal Bow",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Savage Lynel Bow",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "15",
+      "name": "Fire Arrows (15)",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Diamond",
+      "category": [
+        "Materials"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Ice Arrows (15)",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Shock Arrows (15)",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "10",
+      "name": "Ancient Arrows (5)",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "15",
+      "name": "Arrows (20)",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Wood Bundles (10)",
+      "category": [
+        "Materials"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Greg the Green Rupee",
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    }
+  ]
+}

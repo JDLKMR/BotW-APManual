@@ -1,0 +1,69 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "enable_the_master_trials_dlc": {
+			"display_name": "Enable The Master Trials DLC",
+			"description": "Enables items and locations exclusive to the Master Trials DLC.",
+			"type": "Toggle",
+			"default": true,
+			"group": "DLC"
+		},
+		"enable_the_champions_ballad_dlc": {
+            "display_name": "Enable The Champions' Ballad DLC",
+            "description": "Enables items and locations exclusive to the Champions' Ballad DLC.",
+            "type": "Toggle",
+            "default": true,
+            "group": "DLC"
+		},
+		"randomize_starting_tower": {
+			"display_name": "Randomize Starting Tower",
+			"description": "Selects from one of most of the 15 Sheikah Towers to start with. If disabled, always starts with the Great Plateau Tower.",
+			"type": "Toggle",
+			"default": false,
+			"group": "Shuffle Settings"
+		},
+		"shuffle_shrine_chests": {
+			"display_name": "Shuffle Shrine Chests",
+			"description": "Include the chests in shrines as locations.",
+			"type": "Toggle",
+			"default": true,
+			"group": "Shuffle Settings"
+		},
+		"shuffle_memories": {
+			"display_name": "Shuffle Memories",
+			"description": "Include Recovered Memories as locations.",
+			"type": "Toggle",
+			"default": true,
+			"group": "Shuffle Settings"
+        },
+		"shuffle_trial_of_the_sword": {
+			"display_name": "Shuffle Trial of the Sword",
+			"description": "Include Trial of the Sword chests and section completions (Beginning, Middle, and Final) as locations. Requires enabling The Master Trials DLC.",
+			"type": "Toggle",
+			"default": false,
+			"group": "Shuffle Settings"
+		}
+    }
+
+}

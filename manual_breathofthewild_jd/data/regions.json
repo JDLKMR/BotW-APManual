@@ -1,0 +1,103 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Great Plateau": {
+    "connects_to": [],
+    "requires": "|Great Plateau Tower|"
+  },
+  "Central Hyrule": {
+    "connects_to": [],
+    "requires": "|Central Tower|"
+  },
+  "Dueling Peaks": {
+    "connects_to": [],
+    "requires": "|Dueling Peaks Tower|"
+  },
+  "Necluda": {
+    "connects_to": [],
+    "requires": "|Hateno Tower|"
+  },
+  "Faron": {
+    "connects_to": [],
+    "requires": "|Faron Tower| AND (|Stamina Vessel:4| OR |Revali's Gale| OR |Progressive Revali's Gale|)"
+  },
+  "Lanayru": {
+    "connects_to": [],
+    "requires": "|Lanayru Tower|"
+  },
+  "Eldin": {
+    "connects_to": [],
+    "requires": "|Eldin Tower|"
+  },
+  "Akkala": {
+    "connects_to": [],
+    "requires": "|Akkala Tower|"
+  },
+  "Great Hyrule Forest": {
+    "connects_to": [],
+    "requires": "|Woodland Tower|"
+  },
+  "Lake Hylia": {
+    "connects_to": [],
+    "requires": "|Lake Tower|"
+  },
+  "Tabantha": {
+    "connects_to": [],
+    "requires": "|Tabantha Tower|"
+  },
+  "Hyrule Ridge": {
+    "connects_to": [],
+    "requires": "|Ridgeland Tower| AND (|Cryonis| OR |Revali's Gale| OR |Progressive Revali's Gale|)"
+  },
+  "Gerudo Highlands": {
+    "connects_to": [],
+    "requires": "|Gerudo Tower|"
+  },
+  "Gerudo Desert": {
+    "connects_to": [],
+    "requires": "|Wasteland Tower|"
+  },
+  "Hebra": {
+    "connects_to": [],
+    "requires": "|Hebra Tower| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+  },
+  "Divine Beast Vah Medoh": {
+    "connects_to": [],
+    "requires": "|Tabantha Tower| AND |Vah Medoh Controls| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+  },
+  "Divine Beast Vah Rudania": {
+    "connects_to": [],
+    "requires": "|Eldin Tower| AND |Vah Rudania Controls| AND ((|@Flame Resistant Head| AND |@Flame Resistant Body|) OR (|@Flame Resistant Head| AND |@Flame Resistant Legs|) OR (|@Flame Resistant Body| AND |@Flame Resistant Legs|)) AND |Magnesis| AND |Progressive Remote Bomb|"
+  },
+  "Divine Beast Vah Ruta": {
+    "connects_to": [],
+    "requires": "|Lanayru Tower| AND |Vah Ruta Controls| AND |Zora Armor| AND |Cryonis|"
+  },
+  "Divine Beast Vah Naboris": {
+    "connects_to": [],
+    "requires": "|Wasteland Tower| AND |Vah Naboris Controls| AND (|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance|"
+  },
+  "Trial of the Sword (Beginning Trials)": {
+	"connects_to": [],
+	"requires": "|Woodland Tower| AND |Heart Container:13| AND |Progressive Master Sword| AND |Magnesis| AND |Progressive Remote Bomb| AND |Cryonis| AND |Progressive Stasis|"
+  },
+  "Trial of the Sword (Middle Trials)": {
+	"connects_to": [],
+	"requires": "|Woodland Tower| AND |Heart Container:19| AND |Progressive Master Sword| AND |Magnesis| AND |Progressive Remote Bomb| AND |Cryonis| AND |Progressive Stasis|"
+  },
+  "Trial of the Sword (Final Trials)": {
+	"connects_to": [],
+	"requires": "|Woodland Tower| AND |Heart Container:25| AND |Progressive Master Sword| AND |Magnesis| AND |Progressive Remote Bomb| AND |Cryonis| AND |Progressive Stasis|"
+  },
+  "Great Plateau (One-Hit Obliterator)": {
+    "connects_to": [],
+    "requires": "|Great Plateau Tower| AND |One-Hit Obliterator| AND |Progressive Revali's Gale| AND |Progressive Daruk's Protection| AND |Progressive Mipha's Grace| AND |Progressive Urbosa's Fury|"
+  },
+  "Final Trial": {
+    "connects_to": [],
+    "requires": "|Great Plateau Tower| AND |Final Trial Controls| AND |Progressive Revali's Gale:2| AND |Progressive Daruk's Protection:2| AND |Progressive Mipha's Grace:2| AND |Progressive Urbosa's Fury:2|"
+  },
+  "Hyrule Castle": {
+    "connects_to": [],
+    "requires": "|Central Tower| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+  }
+}

@@ -1,0 +1,3916 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Great Plateau Tower",
+	  "region": "Great Plateau",
+	  "category": [
+		"Sheikah Towers"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Ja Baij Shrine - Chest 1",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Ja Baij Shrine - Chest 2",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Ja Baij Shrine",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Keh Namut Shrine - Chest",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Cold Resistance| AND |Cryonis|"
+    },
+    {
+      "name": "Keh Namut Shrine",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines"
+      ],
+      "requires": "|@Cold Resistance| AND |Cryonis|"
+    },
+    {
+      "name": "Oman Au Shrine - Chest",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Oman Au Shrine",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Owa Daim Shrine - Chest",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Owa Daim Shrine",
+      "region": "Great Plateau",
+      "category": [
+        "Great Plateau Shrines"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Yowaka Ita Shrine - Chest 1",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Yowaka Ita Shrine - Chest 2",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Yowaka Ita Shrine",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Rohta Chigah Shrine - Chest",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Rohta Chigah Shrine",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Ruvo Korbah Shrine - Chest 1",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ruvo Korbah Shrine - Chest 2",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ruvo Korbah Shrine - Chest 3",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ruvo Korbah Shrine",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Etsu Korima Shrine - Chest",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Etsu Korima Shrine",
+      "region": "Great Plateau (One-Hit Obliterator)",
+      "category": [
+        "Great Plateau Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Central Tower",
+      "region": "Central Hyrule",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dah Kaso Shrine - Chest",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dah Kaso Shrine",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kaam Ya'tak Shrine - Chest 1",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Kaam Ya'tak Shrine - Chest 2",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Kaam Ya'tak Shrine - Chest 3",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Kaam Ya'tak Shrine - Chest 4",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Kaam Ya'tak Shrine - Chest 5",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Kaam Ya'tak Shrine",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Katah Chuki Shrine - Chest",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Katah Chuki Shrine",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Namika Ozz Shrine - Chest",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Namika Ozz Shrine",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Noya Neha Shrine - Chest",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Noya Neha Shrine",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Rota Ooh Shrine - Chest 1",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rota Ooh Shrine - Chest 2",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rota Ooh Shrine",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Saas Ko'sah Shrine - Chest",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Magnesis|"
+    },
+    {
+      "name": "Saas Ko'sah Shrine",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Magnesis|"
+    },
+    {
+      "name": "Wahgo Katta Shrine - Chest",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Wahgo Katta Shrine",
+      "region": "Central Hyrule",
+      "category": [
+        "Central Hyrule Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Dueling Peaks Tower",
+      "region": "Dueling Peaks",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bosh Kala Shrine - Chest 1",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bosh Kala Shrine - Chest 2",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bosh Kala Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ha Dahamar Shrine - Chest",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Ha Dahamar Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Hila Rao Shrine - Chest 1",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Hila Rao Shrine - Chest 2",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Hila Rao Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": "|Cryonis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Lakna Rokee Shrine - Chest",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Lakna Rokee Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Ree Dahee Shrine - Chest",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Ree Dahee Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shee Vaneer Shrine - Chest",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Cold Resistance|"
+    },
+    {
+      "name": "Shee Vaneer Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": "|@Cold Resistance|"
+    },
+    {
+      "name": "Shee Venath Shrine - Chest",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shee Venath Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ta'loh Naeg Shrine - Chest 1",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ta'loh Naeg Shrine - Chest 2",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ta'loh Naeg Shrine - Chest 3",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ta'loh Naeg Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Toto Sah Shrine - Chest 1",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Toto Sah Shrine - Chest 2",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Toto Sah Shrine",
+      "region": "Dueling Peaks",
+      "category": [
+        "Dueling Peaks Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Hateno Tower",
+      "region": "Necluda",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chaas Qeta Shrine - Chest",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Chaas Qeta Shrine",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Dow Na'eh Shrine - Chest 1",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Dow Na'eh Shrine - Chest 2",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Dow Na'eh Shrine - Chest 3",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Dow Na'eh Shrine",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Jitan Sa'mi Shrine - Chest",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Naydra's Scale|"
+    },
+    {
+      "name": "Jitan Sa'mi Shrine",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Naydra's Scale|"
+    },
+    {
+      "name": "Kam Urog Shrine - Chest 1",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kam Urog Shrine - Chest 2",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kam Urog Shrine",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mezza Lo Shrine - Chest",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Mezza Lo Shrine",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Myahm Agana Shrine - Chest",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Myahm Agana Shrine",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tahno O'ah Shrine - Chest",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Cold Resistance| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Tahno O'ah Shrine",
+      "region": "Necluda",
+      "category": [
+        "Necluda Shrines"
+      ],
+      "requires": "|@Cold Resistance| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Faron Tower",
+      "region": "Faron",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kah Yah Shrine - Chest 1",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Camera|"
+    },
+    {
+      "name": "Kah Yah Shrine - Chest 2",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Camera|"
+    },
+    {
+      "name": "Kah Yah Shrine",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines"
+      ],
+      "requires": "|Camera|"
+    },
+    {
+      "name": "Korgu Chideh Shrine - Chest",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis| AND |Progressive Remote Bomb| AND |Progressive Stasis| AND |Cryonis|"
+    },
+    {
+      "name": "Korgu Chideh Shrine",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines"
+      ],
+      "requires": "|Magnesis| AND |Progressive Remote Bomb| AND |Progressive Stasis| AND |Cryonis|"
+    },
+    {
+      "name": "Muwo Jeem Shrine - Chest",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Muwo Jeem Shrine",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Qukah Nata Shrine - Chest",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Qukah Nata Shrine",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shoda Sah Shrine - Chest 1",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shoda Sah Shrine - Chest 2",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shoda Sah Shrine",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shai Utoh Shrine - Chest 1",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Shai Utoh Shrine - Chest 2",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Shai Utoh Shrine",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Tawa Jinn Shrine - Chest",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Tawa Jinn Shrine",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Yah Rin Shrine - Chest 1",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Yah Rin Shrine - Chest 2",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Yah Rin Shrine",
+      "region": "Faron",
+      "category": [
+        "Faron Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Lanayru Tower",
+      "region": "Lanayru",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dagah Keek Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis| AND |Magnesis|"
+    },
+    {
+      "name": "Dagah Keek Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": "|Cryonis| AND |Magnesis|"
+    },
+    {
+      "name": "Daka Tuss Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Daka Tuss Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Kah Mael Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Kah Mael Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": "|Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Kaya Wan Shrine - Chest 1",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Kaya Wan Shrine - Chest 2",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Kaya Wan Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Ne'ez Yohma Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Ne'ez Yohma Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Rucco Maag Shrine - Chest 1",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rucco Maag Shrine - Chest 2",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rucco Maag Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shai Yota Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Shai Yota Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Sheh Rata Shrine - Chest 1",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sheh Rata Shrine - Chest 2",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Sheh Rata Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": "|Cryonis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Soh Kofi Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Soh Kofi Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sato Koda Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Mipha's Grace| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Cryonis|"
+    },
+    {
+      "name": "Sato Koda Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Mipha's Grace| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Cryonis|"
+    },
+    {
+      "name": "Mah Eliya Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Mipha's Grace| AND |Zora Armor| AND |Cryonis| AND |Magnesis|"
+    },
+    {
+      "name": "Mah Eliya Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Mipha's Grace| AND |Zora Armor| AND |Cryonis| AND |Magnesis|"
+    },
+    {
+      "name": "Kee Dafunia Shrine - Chest",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Mipha's Grace| AND |Cryonis|"
+    },
+    {
+      "name": "Kee Dafunia Shrine",
+      "region": "Lanayru",
+      "category": [
+        "Lanayru Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Mipha's Grace| AND |Cryonis|"
+    },
+    {
+      "name": "Eldin Tower",
+      "region": "Eldin",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Daqa Koh Shrine - Chest",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "name": "Daqa Koh Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": "|@Flame Resistance| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Gorae Torr Shrine - Chest",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gorae Torr Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kayra Mah Shrine - Chest 1",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "name": "Kayra Mah Shrine - Chest 2",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "name": "Kayra Mah Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "name": "Mo'a Keet Shrine - Chest 1",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Mo'a Keet Shrine - Chest 2",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Mo'a Keet Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": "|Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Qua Raym Shrine - Chest 1",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Qua Raym Shrine - Chest 2",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance| AND |Magnesis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Qua Raym Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": "|@Flame Resistance| AND |Magnesis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Sah Dahaj Shrine - Chest",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sah Dahaj Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shae Mo'sah Shrine - Chest 1",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "region": "Eldin",
+      "name": "Shae Mo'sah Shrine - Chest 2",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "region": "Eldin",
+      "name": "Shae Mo'sah Shrine - Chest 3",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "region": "Eldin",
+      "name": "Shae Mo'sah Shrine - Chest 4",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "region": "Eldin",
+      "name": "Shae Mo'sah Shrine",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": "|@Flame Resistance|"
+    },
+    {
+      "name": "Shora Hah Shrine - Chest 1",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Shora Hah Shrine - Chest 2",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Shora Hah Shrine - Chest 3",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Shora Hah Shrine - Chest 4",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Shora Hah Shrine - Chest 5",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Shora Hah Shrine - Chest 6",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Flame Resistance| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Shora Hah Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": "|@Flame Resistance| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Tah Muhl Shrine - Chest 1",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tah Muhl Shrine - Chest 2",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tah Muhl Shrine - Chest 3",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Tah Muhl Shrine - Chest 4",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Tah Muhl Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Rinu Honika Shrine - Chest",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Daruk's Protection| AND |@Flame Resistance| AND |Magnesis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Rinu Honika Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Daruk's Protection| AND |@Flame Resistance| AND |Magnesis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Kamia Omuna Shrine - Chest",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Upgradeable Flame Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Flame Resistant Legs|)) AND |Progressive Armor Upgrade| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Kamia Omuna Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines"
+      ],
+      "requires": "((|@Upgradeable Flame Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Flame Resistant Legs|)) AND |Progressive Armor Upgrade| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Sharo Lun Shrine - Chest",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Vah Rudania Cleared| AND ((|@Flame Resistant Head| AND |@Flame Resistant Body|) OR (|@Flame Resistant Head| AND |@Flame Resistant Legs|) OR (|@Flame Resistant Body| AND |@Flame Resistant Legs|)) AND |Cryonis|"
+    },
+    {
+      "name": "Sharo Lun Shrine",
+      "region": "Eldin",
+      "category": [
+        "Eldin Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Vah Rudania Cleared| AND ((|@Flame Resistant Head| AND |@Flame Resistant Body|) OR (|@Flame Resistant Head| AND |@Flame Resistant Legs|) OR (|@Flame Resistant Body| AND |@Flame Resistant Legs|)) AND |Cryonis|"
+    },
+    {
+      "name": "Akkala Tower",
+      "region": "Akkala",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dah Hesho Shrine - Chest",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dah Hesho Shrine",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Katosa Aug Shrine - Chest",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Katosa Aug Shrine",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ke'nai Shakah Shrine - Chest",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Ke'nai Shakah Shrine",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Ritaag Zumo Shrine - Chest",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ritaag Zumo Shrine",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tu Ka'loh Shrine - Chest",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Stamina Vessel:3|"
+    },
+    {
+      "name": "Tu Ka'loh Shrine",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines"
+      ],
+      "requires": "|Stamina Vessel:3|"
+    },
+    {
+      "name": "Tutsuwa Nima Shrine - Chest",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Dinraal's Scale| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Cryonis|"
+    },
+    {
+      "name": "Tutsuwa Nima Shrine",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines"
+      ],
+      "requires": "|Dinraal's Scale| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Cryonis|"
+    },
+    {
+      "name": "Ze Kasho Shrine - Chest",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ze Kasho Shrine",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Zuna Kai Shrine - Chest",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "(|Revali's Gale| OR |Progressive Revali's Gale|)"
+    },
+    {
+      "name": "Zuna Kai Shrine",
+      "region": "Akkala",
+      "category": [
+        "Akkala Shrines"
+      ],
+      "requires": "(|Revali's Gale| OR |Progressive Revali's Gale|)"
+    },
+    {
+      "name": "Woodland Tower",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Daag Chokah Shrine - Chest",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Daag Chokah Shrine",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Keo Ruug Shrine - Chest",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Keo Ruug Shrine",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ketoh Wawai Shrine - Chest",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ketoh Wawai Shrine",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kuhn Sidajj Shrine - Chest",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Kuhn Sidajj Shrine",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Maag Halan Shrine - Chest",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Maag Halan Shrine",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Mirro Shaz Shrine - Chest 1",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Mirro Shaz Shrine - Chest 2",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Mirro Shaz Shrine - Chest 3",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Mirro Shaz Shrine",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Monya Toma Shrine - Chest",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Monya Toma Shrine",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Rona Kachta Shrine - Chest",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rona Kachta Shrine",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Great Hyrule Forest Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lake Tower",
+      "region": "Lake Hylia",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ishto Soh Shrine - Chest 1",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ishto Soh Shrine - Chest 2",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ishto Soh Shrine",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ka'o Makagh Shrine - Chest 1",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Ka'o Makagh Shrine - Chest 2",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Ka'o Makagh Shrine - Chest 3",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Ka'o Makagh Shrine",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines"
+      ],
+      "requires": "|Magnesis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Pumaag Nitae Shrine - Chest",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Pumaag Nitae Shrine",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shae Katha Shrine - Chest",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Farosh's Scale|"
+    },
+    {
+      "name": "Shae Katha Shrine",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines"
+      ],
+      "requires": "|Farosh's Scale|"
+    },
+    {
+      "name": "Shoqa Tatone Shrine - Chest",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Central Tower| AND |Camera| AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Shoqa Tatone Shrine",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines"
+      ],
+      "requires": "|Central Tower| AND |Camera| AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Ya Naga Shrine - Chest",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Ya Naga Shrine",
+      "region": "Lake Hylia",
+      "category": [
+        "Lake Hylia Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Tabantha Tower",
+      "region": "Tabantha",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Akh Va'quot Shrine - Chest 1",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Akh Va'quot Shrine - Chest 2",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Akh Va'quot Shrine - Chest 3",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Akh Va'quot Shrine",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bareeda Naag Shrine - Chest 1",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Bareeda Naag Shrine - Chest 2",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Bareeda Naag Shrine",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Kah Okeo Shrine - Chest 1",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Kah Okeo Shrine - Chest 2",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Kah Okeo Shrine - Chest 3",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Kah Okeo Shrine - Chest 4",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Kah Okeo Shrine - Chest 5",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Kah Okeo Shrine - Chest 6",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Kah Okeo Shrine",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Sha Warvo Shrine - Chest 1",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+    },
+    {
+      "name": "Sha Warvo Shrine - Chest 2",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+    },
+    {
+      "name": "Sha Warvo Shrine",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+    },
+    {
+      "name": "Tena Ko'sah Shrine - Chest",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Tena Ko'sah Shrine",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Voo Lota Shrine - Chest",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Vah Medoh Cleared|"
+    },
+    {
+      "name": "Voo Lota Shrine",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines"
+      ],
+      "requires": "|Vah Medoh Cleared|"
+    },
+    {
+      "name": "Noe Rajee Shrine - Chest",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Revali's Gale| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+    },
+    {
+      "name": "Noe Rajee Shrine",
+      "region": "Tabantha",
+      "category": [
+        "Tabantha Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Revali's Gale| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+    },
+    {
+      "name": "Ridgeland Tower",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Maag No'rah Shrine - Chest",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Maag No'rah Shrine",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Mijah Rokee Shrine - Chest",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Mijah Rokee Shrine",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Mogg Latan Shrine - Chest 1",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Mogg Latan Shrine - Chest 2",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Mogg Latan Shrine - Chest 3",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Mogg Latan Shrine",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Shae Loya Shrine - Chest 1",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Shae Loya Shrine - Chest 2",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Shae Loya Shrine",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Sheem Dagoze Shrine - Chest",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sheem Dagoze Shrine",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Toh Yahsa Shrine - Chest 1",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Toh Yahsa Shrine - Chest 2",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Toh Yahsa Shrine",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Zalta Wa Shrine - Chest",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Zalta Wa Shrine",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shira Gomar Shrine - Chest",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Revali's Gale| AND |Progressive Remote Bomb| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Shira Gomar Shrine",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Hyrule Ridge Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Revali's Gale| AND |Progressive Remote Bomb| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Gerudo Tower",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Joloo Nah Shrine - Chest 1",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Heart Container:10| AND |Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Joloo Nah Shrine - Chest 2",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Heart Container:10| AND |Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Joloo Nah Shrine",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Heart Container:10| AND |Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Keeha Yoog Shrine - Chest",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|@Cold Resistance|"
+    },
+    {
+      "name": "Keeha Yoog Shrine",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines"
+      ],
+      "requires": "|@Cold Resistance|"
+    },
+    {
+      "name": "Kema Kosassa Shrine - Chest",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Cryonis|"
+    },
+    {
+      "name": "Kema Kosassa Shrine",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Cryonis|"
+    },
+    {
+      "name": "Kuh Takkar Shrine - Chest",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Magnesis|"
+    },
+    {
+      "region": "Gerudo Highlands",
+      "name": "Kuh Takkar Shrine",
+      "category": [
+        "Gerudo Highlands Shrines"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Magnesis|"
+    },
+    {
+      "name": "Sho Dantu Shrine - Chest",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Sho Dantu Shrine",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Sasa Kai Shrine - Chest",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Sasa Kai Shrine",
+      "region": "Gerudo Highlands",
+      "category": [
+        "Gerudo Highlands Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Wasteland Tower",
+      "region": "Gerudo Desert",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dako Tah Shrine - Chest 1",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Dako Tah Shrine - Chest 2",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Dako Tah Shrine - Chest 3",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Dako Tah Shrine - Chest 4",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Dako Tah Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Daqo Chisay Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Daqo Chisay Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Dila Maag Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dila Maag Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Hawa Koth Shrine - Chest 1",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Hawa Koth Shrine - Chest 2",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Hawa Koth Shrine - Chest 3",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Hawa Koth Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Jee Noh Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Jee Noh Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "|Progressive Stasis| AND |Magnesis|"
+    },
+    {
+      "name": "Kay Noh Shrine - Chest 1",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Kay Noh Shrine - Chest 2",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Kay Noh Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Kema Zoos Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "region": "Gerudo Desert",
+      "name": "Kema Zoos Shrine",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Korsh O'hu Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Korsh O'hu Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Misae Suma Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|"
+    },
+    {
+      "name": "Misae Suma Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|"
+    },
+    {
+      "name": "Raqa Zunzo Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Vah Naboris Cleared| AND ((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance|"
+    },
+    {
+      "name": "Raqa Zunzo Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "|Vah Naboris Cleared| AND ((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance|"
+    },
+    {
+      "name": "Suma Sahma Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+    },
+    {
+      "name": "Suma Sahma Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+    },
+    {
+      "name": "Tho Kayu Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Tho Kayu Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines"
+      ],
+      "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Keive Tala Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Vah Naboris Cleared| AND |Progressive Urbosa's Fury| AND ((|@Upgradeable Heat Resistant Head| AND |@Upgradeable Heat Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Heat Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Heat Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Heat Resistant Body| AND |@Upgradeable Heat Resistant Legs|)) AND ((|@Upgradeable Cold Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Cold Resistant Legs|)) AND |Progressive Armor Upgrade| AND |Progressive Remote Bomb| AND |Magnesis| AND |Cryonis|"
+    },
+    {
+      "name": "Keive Tala Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Vah Naboris Cleared| AND |Progressive Urbosa's Fury| AND ((|@Upgradeable Heat Resistant Head| AND |@Upgradeable Heat Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Heat Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Heat Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Heat Resistant Body| AND |@Upgradeable Heat Resistant Legs|)) AND ((|@Upgradeable Cold Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Cold Resistant Legs|)) AND |Progressive Armor Upgrade| AND |Progressive Remote Bomb| AND |Magnesis| AND |Cryonis|"
+    },
+    {
+      "name": "Takama Shiri Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Urbosa's Fury| AND ((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Takama Shiri Shrine",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Urbosa's Fury| AND ((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "name": "Kihiro Moh Shrine - Chest",
+      "region": "Gerudo Desert",
+      "category": [
+        "Gerudo Desert Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Urbosa's Fury| AND (|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Magnesis|"
+    },
+    {
+      "region": "Gerudo Desert",
+      "name": "Kihiro Moh Shrine",
+      "category": [
+        "Gerudo Desert Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Urbosa's Fury| AND (|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance|"
+    },
+    {
+      "name": "Hebra Tower",
+      "region": "Hebra",
+      "category": [
+        "Sheikah Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dunba Taag Shrine - Chest 1",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis| AND |Progressive Remote Bomb|"
+    },
+    {
+      "name": "Dunba Taag Shrine - Chest 2",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Dunba Taag Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Gee Ha'rah Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gee Ha'rah Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Goma Asaagh Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Cryonis|"
+    },
+    {
+      "name": "Goma Asaagh Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Cryonis|"
+    },
+    {
+      "name": "Hia Miu Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Magnesis|"
+    },
+    {
+      "name": "Hia Miu Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Magnesis|"
+    },
+    {
+      "name": "Lanno Kooh Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Heart Container:10|"
+    },
+    {
+      "region": "Hebra",
+      "name": "Lanno Kooh Shrine",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Heart Container:10|"
+    },
+    {
+      "name": "Maka Rah Shrine - Chest 1",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Cryonis|"
+    },
+    {
+      "name": "Maka Rah Shrine - Chest 2",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Cryonis| AND |Magnesis|"
+    },
+    {
+      "region": "Hebra",
+      "name": "Maka Rah Shrine - Chest 3",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Cryonis| AND |Magnesis|"
+    },
+    {
+      "region": "Hebra",
+      "name": "Maka Rah Shrine",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Cryonis| AND |Magnesis|"
+    },
+    {
+      "name": "Mozo Shenno Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Magnesis|"
+    },
+    {
+      "name": "Mozo Shenno Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Magnesis|"
+    },
+    {
+      "name": "Qaza Tokki Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Qaza Tokki Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Rin Oyaa Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Rin Oyaa Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Rok Uwog Shrine - Chest 1",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Rok Uwog Shrine - Chest 2",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Rok Uwog Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Sha Gehma Shrine - Chest 1",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sha Gehma Shrine - Chest 2",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Sha Gehma Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Shada Naw Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Shada Naw Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "To Quoma Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "Shrine Chests"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "To Quoma Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines"
+      ],
+      "requires": "|Cryonis|"
+    },
+    {
+      "name": "Kiah Toza Shrine - Chest",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "The Champions' Ballad DLC",
+        "Shrine Chests"
+      ],
+      "requires": "|Progressive Revali's Gale| AND |Cryonis|"
+    },
+    {
+      "name": "Kiah Toza Shrine",
+      "region": "Hebra",
+      "category": [
+        "Hebra Shrines",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Revali's Gale| AND |Cryonis| AND |Magnesis|"
+    },
+    {
+      "name": "Sacred Ground Ruins - Recovered Memory (Subdued Ceremony)",
+      "region": "Central Hyrule",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Hyrule Field - Recovered Memory (Resolve and Grief)",
+      "region": "Central Hyrule",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Tabantha",
+      "name": "Ancient Columns - Recovered Memory (Zelda's Resentment)",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Gerudo Desert",
+      "name": "Kara Kara Bazaar - Recovered Memory (Blades of the Yiga)",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": "(|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance|"
+    },
+    {
+      "name": "Eldin Canyon - Recovered Memory (A Premonition)",
+      "region": "Eldin",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Hyrule Ridge",
+      "name": "Irch Plain - Recovered Memory (Silent Princess)",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Hills of Baumer - Recovered Memory (Shelter from the Storm)",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": "|Dueling Peaks Tower| OR |Lake Tower|"
+    },
+    {
+      "name": "Hyrule Castle - Recovered Memory (Father and Daughter)",
+      "region": "Hyrule Castle",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spring of Power - Recovered Memory (Slumbering Power)",
+      "region": "Akkala",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sanidin Park Ruins - Recovered Memory (To Mount Lanayru)",
+      "region": "Hyrule Ridge",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Lanayru Road - Recovered Memory (Return of Calamity Ganon)",
+      "region": "Necluda",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Hyrule Field - Recovered Memory (Despair)",
+      "region": "Central Hyrule",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ash Swamp - Recovered Memory (Zelda's Awakening)",
+      "region": "Dueling Peaks",
+      "category": [
+        "Recovered Memories"
+      ],
+      "requires": "|Central Tower| AND |Tabantha Tower| AND |Wasteland Tower| AND (|@Heat Resistance| OR (|Gerudo Veil| AND |Gerudo Top| AND |Gerudo Sirwal|)) AND |@Cold Resistance| AND |Eldin Tower| AND |Ridgeland Tower| AND (|Cryonis| OR |Revali's Gale| OR |Progressive Revali's Gale|) AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs| AND |Akkala Tower| AND |Hateno Tower|"
+    },
+    {
+      "name": "Divine Beast Vah Medoh - Map Terminal",
+      "region": "Divine Beast Vah Medoh",
+      "category": [
+        "Divine Beast Vah Medoh"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Medoh - Right Wing End Terminal",
+      "region": "Divine Beast Vah Medoh",
+      "category": [
+        "Divine Beast Vah Medoh"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Medoh - Right Wing Terminal",
+      "region": "Divine Beast Vah Medoh",
+      "category": [
+        "Divine Beast Vah Medoh"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Divine Beast Vah Medoh - Left Wing Lower Terminal",
+      "region": "Divine Beast Vah Medoh",
+      "category": [
+        "Divine Beast Vah Medoh"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Medoh - Left Wing Terminal",
+      "region": "Divine Beast Vah Medoh",
+      "category": [
+        "Divine Beast Vah Medoh"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Medoh - Left Wing End Terminal",
+      "region": "Divine Beast Vah Medoh",
+      "category": [
+        "Divine Beast Vah Medoh"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Magnesis|"
+    },
+    {
+      "name": "Divine Beast Vah Medoh - Windblight Ganon Defeated",
+      "region": "Divine Beast Vah Medoh",
+      "category": [
+        "Divine Beast Vah Medoh"
+      ],
+      "requires": "|Magnesis| AND |Progressive Remote Bomb| AND |Progressive Armor Upgrade| AND ((|@Upgradeable Cold Resistant Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Cold Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Cold Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Cold Resistant Legs|))"
+    },
+    {
+      "name": "(EVENT) Vah Medoh Cleared",
+      "region": "Divine Beast Vah Medoh",
+      "category": [
+        "Divine Beast Vah Medoh"
+      ],
+      "requires": "|Magnesis| AND |Progressive Remote Bomb| AND |Progressive Armor Upgrade| AND ((|@Upgradeable Cold Resistant Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Cold Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Cold Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Cold Resistant Legs|))",
+      "place_item": [
+        "Vah Medoh Cleared"
+      ]
+    },
+    {
+      "name": "Divine Beast Vah Medoh - Memory Windblight Ganon Defeated",
+      "category": [
+        "Divine Beast Vah Medoh",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Vah Medoh Cleared| AND |Heart Container:10|"
+    },
+    {
+      "name": "Divine Beast Vah Rudania - Map Terminal",
+      "region": "Divine Beast Vah Rudania",
+      "category": [
+        "Divine Beast Vah Rudania"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Rudania - Rear Terminal",
+      "region": "Divine Beast Vah Rudania",
+      "category": [
+        "Divine Beast Vah Rudania"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Rudania - Rear Right Leg Terminal",
+      "region": "Divine Beast Vah Rudania",
+      "category": [
+        "Divine Beast Vah Rudania"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Rudania - Front Left Leg Terminal",
+      "region": "Divine Beast Vah Rudania",
+      "category": [
+        "Divine Beast Vah Rudania"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Rudania - Outer Back Terminal",
+      "region": "Divine Beast Vah Rudania",
+      "category": [
+        "Divine Beast Vah Rudania"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Rudania - Rear Left Leg Terminal",
+      "region": "Divine Beast Vah Rudania",
+      "category": [
+        "Divine Beast Vah Rudania"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Rudania - Fireblight Ganon Defeated",
+      "region": "Divine Beast Vah Rudania",
+      "category": [
+        "Divine Beast Vah Rudania"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND ((|@Upgradeable Flame Resistant Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Flame Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Flame Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Flame Resistant Legs|))"
+    },
+    {
+      "name": "(EVENT) Vah Rudania Cleared",
+      "region": "Divine Beast Vah Rudania",
+      "category": [
+        "Divine Beast Vah Rudania"
+      ],
+      "requires": "|Progressive Armor Upgrade| AND ((|@Upgradeable Flame Resistant Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Flame Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Flame Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Flame Resistant Legs|))",
+      "place_item": [
+        "Vah Rudania Cleared"
+      ]
+    },
+    {
+      "name": "Divine Beast Vah Rudania - Memory Fireblight Ganon Defeated",
+      "category": [
+        "Divine Beast Vah Rudania",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Vah Rudania Cleared| AND |Heart Container:10|"
+    },
+    {
+      "name": "Divine Beast Vah Ruta - Map Terminal",
+      "region": "Divine Beast Vah Ruta",
+      "category": [
+        "Divine Beast Vah Ruta"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Ruta - Lower Terminal",
+      "region": "Divine Beast Vah Ruta",
+      "category": [
+        "Divine Beast Vah Ruta"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Divine Beast Vah Ruta - Rear Terminal",
+      "region": "Divine Beast Vah Ruta",
+      "category": [
+        "Divine Beast Vah Ruta"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Ruta - Center Terminal",
+      "region": "Divine Beast Vah Ruta",
+      "category": [
+        "Divine Beast Vah Ruta"
+      ],
+      "requires": "|Progressive Stasis|"
+    },
+    {
+      "name": "Divine Beast Vah Ruta - Trunk Terminal",
+      "region": "Divine Beast Vah Ruta",
+      "category": [
+        "Divine Beast Vah Ruta"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Ruta - Head Terminal",
+      "region": "Divine Beast Vah Ruta",
+      "category": [
+        "Divine Beast Vah Ruta"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Divine Beast Vah Ruta - Waterblight Ganon Defeated",
+      "region": "Divine Beast Vah Ruta",
+      "category": [
+        "Divine Beast Vah Ruta"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis| AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "(EVENT) Vah Ruta Cleared",
+      "region": "Divine Beast Vah Ruta",
+      "category": [
+        "Divine Beast Vah Ruta"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis| AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|",
+      "place_item": [
+        "Vah Ruta Cleared"
+      ]
+    },
+    {
+      "name": "Divine Beast Vah Ruta - Memory Waterblight Ganon Defeated",
+      "category": [
+        "Divine Beast Vah Ruta",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Vah Ruta Cleared| AND |Heart Container:10|"
+    },
+    {
+      "name": "Divine Beast Vah Naboris - Map Terminal",
+      "region": "Divine Beast Vah Naboris",
+      "category": [
+        "Divine Beast Vah Naboris"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Naboris - Front Wheel Terminal",
+      "region": "Divine Beast Vah Naboris",
+      "category": [
+        "Divine Beast Vah Naboris"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Naboris - Rear Wheel Terminal",
+      "region": "Divine Beast Vah Naboris",
+      "category": [
+        "Divine Beast Vah Naboris"
+      ],
+      "requires": "|Progressive Remote Bomb|"
+    },
+    {
+      "name": "Divine Beast Vah Naboris - Head Terminal",
+      "region": "Divine Beast Vah Naboris",
+      "category": [
+        "Divine Beast Vah Naboris"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Divine Beast Vah Naboris - Front Hump Terminal",
+      "region": "Divine Beast Vah Naboris",
+      "category": [
+        "Divine Beast Vah Naboris"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Divine Beast Vah Naboris - Upper Back Terminal",
+      "region": "Divine Beast Vah Naboris",
+      "category": [
+        "Divine Beast Vah Naboris"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Divine Beast Vah Naboris - Thunderblight Ganon Defeated",
+      "region": "Divine Beast Vah Naboris",
+      "category": [
+        "Divine Beast Vah Naboris"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Magnesis| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "(EVENT) Vah Naboris Cleared",
+      "region": "Divine Beast Vah Naboris",
+      "category": [
+        "Divine Beast Vah Naboris"
+      ],
+      "requires": "|Progressive Remote Bomb| AND |Magnesis| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|",
+      "place_item": [
+        "Vah Naboris Cleared"
+      ]
+    },
+    {
+      "name": "Divine Beast Vah Naboris - Memory Thunderblight Ganon Defeated",
+      "category": [
+        "Divine Beast Vah Naboris",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Vah Naboris Cleared| AND |Heart Container:15|"
+    },
+    {
+      "name": "Final Trial - Map Terminal",
+      "region": "Final Trial",
+      "category": [
+        "Final Trial",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Final Trial - Wind Terminal",
+      "region": "Final Trial",
+      "category": [
+        "Final Trial",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis|"
+    },
+    {
+      "name": "Final Trial - Fire Terminal",
+      "region": "Final Trial",
+      "category": [
+        "Final Trial",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Final Trial - Water Terminal",
+      "region": "Final Trial",
+      "category": [
+        "Final Trial",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Progressive Stasis| AND |Cryonis| AND |Magnesis|"
+    },
+    {
+      "name": "Final Trial - Electric Terminal",
+      "region": "Final Trial",
+      "category": [
+        "Final Trial",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Magnesis|"
+    },
+    {
+      "name": "Final Trial - Maz Koshia Defeated",
+      "region": "Final Trial",
+      "category": [
+        "Final Trial",
+        "The Champions' Ballad DLC"
+      ],
+      "requires": "|Magnesis| AND |Progressive Stasis| AND |Cryonis| AND |Progressive Armor Upgrade:3| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+    },
+    {
+      "name": "Dark Beast Ganon Defeated",
+      "region": "Hyrule Castle",
+      "victory": true,
+      "category": [
+        "Victory"
+      ],
+      "requires": "(|Master Sword| OR |Progressive Master Sword|) AND |Progressive Armor Upgrade:3| AND |Progressive Remote Bomb| AND |Magnesis| AND |Bow of Light|"
+    },
+    {
+      "name": "Korok Forest - Master Sword",
+      "region": "Great Hyrule Forest",
+      "category": [
+        "Korok Forest"
+      ],
+      "requires": "|Heart Container:13|"
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 3 Chest 1",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 3 Chest 2",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 7 (Rest) Chest 1",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 7 (Rest) Chest 2",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 7 (Rest) Chest 3",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 8 Chest",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 9 Chest",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 11 Chest 1",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning) - Floor 11 Chest 2",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Beginning)",
+	  "region": "Trial of the Sword (Beginning Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 1 Chest",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 5 (Rest) Chest 1",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 5 (Rest) Chest 2",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 5 (Rest) Chest 3",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 11 (Rest) Chest 1",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 11 (Rest) Chest 2",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 11 (Rest) Chest 3",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 12 Chest",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle) - Floor 13 Chest",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Middle)",
+	  "region": "Trial of the Sword (Middle Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 2 Chest",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 6 (Rest) Chest 1",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 6 (Rest) Chest 2",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 6 (Rest) Chest 3",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 10 Chest",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 12 (Rest) Chest 1",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 12 (Rest) Chest 2",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 12 (Rest) Chest 3",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 13 Chest",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 14 Chest",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 17 Chest",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 18 (Rest) Chest 1",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 18 (Rest) Chest 2",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 18 (Rest) Chest 3",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 19 Chest",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 21 Chest",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 22 Chest 1",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 22 Chest 2",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final) - Floor 23 Chest",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	},
+	{
+	  "name": "Trial of the Sword (Final)",
+	  "region": "Trial of the Sword (Final Trials)",
+	  "category": [
+		"Trial of the Sword",
+		"The Master Trials DLC"
+	  ],
+	  "requires": ""
+	}
+  ]
+}

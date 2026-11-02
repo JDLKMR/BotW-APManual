@@ -1,0 +1,105 @@
+{
+  "The Master Trials DLC": {
+    "hidden": true,
+    "yaml_option": [
+      "enable_the_master_trials_dlc"
+    ]
+  },
+  "The Champions' Ballad DLC": {
+    "hidden": true,
+    "yaml_option": [
+      "enable_the_champions_ballad_dlc"
+    ]
+  },
+  "Trial of the Sword": {
+	"yaml_option": [
+	  "shuffle_trial_of_the_sword"
+	]
+  },
+  "Recovered Memories": {
+    "yaml_option": [
+      "shuffle_memories"
+    ]
+  },
+  "Shrine Chests": {
+    "hidden": true,
+	"yaml_option": [
+      "shuffle_shrine_chests"
+    ]
+  },
+  "Cold Resistant Head": {
+    "hidden": true
+  },
+  "Cold Resistant Body": {
+    "hidden": true
+  },
+  "Cold Resistant Legs": {
+    "hidden": true
+  },
+  "Heat Resistant Head": {
+    "hidden": true
+  },
+  "Heat Resistant Body": {
+    "hidden": true
+  },
+  "Heat Resistant Legs": {
+    "hidden": true
+  },
+  "Flame Resistant Head": {
+    "hidden": true
+  },
+  "Flame Resistant Body": {
+    "hidden": true
+  },
+  "Flame Resistant Legs": {
+    "hidden": true
+  },
+  "Upgradeable Head": {
+    "hidden": true
+  },
+  "Upgradeable Body": {
+    "hidden": true
+  },
+  "Upgradeable Legs": {
+    "hidden": true
+  },
+  "Upgradeable Cold Resistant Head": {
+    "hidden": true
+  },
+  "Upgradeable Cold Resistant Body": {
+    "hidden": true
+  },
+  "Upgradeable Cold Resistant Legs": {
+    "hidden": true
+  },
+  "Upgradeable Heat Resistant Head": {
+    "hidden": true
+  },
+  "Upgradeable Heat Resistant Body": {
+    "hidden": true
+  },
+  "Upgradeable Heat Resistant Legs": {
+    "hidden": true
+  },
+  "Upgradeable Flame Resistant Head": {
+    "hidden": true
+  },
+  "Upgradeable Flame Resistant Body": {
+    "hidden": true
+  },
+  "Upgradeable Flame Resistant Legs": {
+    "hidden": true
+  },
+  "Master Sword (Base Game)": {
+    "hidden": true,
+    "yaml_option": [
+      "!enable_the_master_trials_dlc"
+    ]
+  },
+  "Champion Abilities (Base Game)": {
+    "hidden": true,
+    "yaml_option": [
+      "!enable_the_champions_ballad_dlc"
+    ]
+  }
+}
